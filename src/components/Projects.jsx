@@ -79,6 +79,50 @@ const projects = [
     "Booking & Appointment System",
   ],
 },
+{
+  id: "netlify-app",
+  title: "Netlify - Todo App",
+  desc: "Google keep clon that add todos, update todos, urchive it, and delete it also.",
+  tech: ["HTML","CSS","JQuery", "Reactstrap"],
+  live: "https://chic-pie-28076c.netlify.app/",
+  github: "https://github.com/Priyankasapp/google-keep-clone", 
+  image: assets.TODO, 
+  features: [
+    "Salon & Parlour Management",
+    "State Management with Redux",
+    "Responsive UI with Reactstrap",
+    "Booking & Appointment System",
+  ],
+},
+{
+  id: "TableBooking-app",
+  title: "TableBooking App - Food App",
+  desc: "A small website where people can book a table on restorent website.",
+  tech: ["HTML","CSS","JQuery", ],
+  live: "https://sage-starlight-e2609b.netlify.app/",
+  github: "https://github.com/Priyankasapp/food-landing-page", 
+  image: assets.Food, 
+  features: [
+    "Salon & Parlour Management",
+    "State Management with Redux",
+    "Responsive UI with Reactstrap",
+    "Booking & Appointment System",
+  ],
+},{
+  id: "Positive-app",
+  title: "Positivus",
+  desc: "A small website where people can book a table on restorent website.",
+  tech: ["react", "bootsrap" ],
+  live: "#",
+  github: "https://github.com/Priyankasapp/Positivus", 
+  image: assets.Positivus, 
+  features: [
+    "Salon & Parlour Management",
+    "State Management with Redux",
+    "Responsive UI with Reactstrap",
+    "Booking & Appointment System",
+  ],
+},
 ];
 
 const Projects = () => {

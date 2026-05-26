@@ -5,6 +5,10 @@ import newsApp from "./News.png"
 import portfolio from "./portfolio.png"
 import eyeHospital from "./Hospital.png"
 import pos from "./pos.png"
+import TODO from "./TODO.png"
+import Food from "./Project3.png"
+import Positivus from "./Positivus.png"
+
 const assets = {
   vsitrPaper,
   vsitrPaper1,
@@ -13,6 +17,9 @@ const assets = {
   portfolio,
   eyeHospital,
   pos,
+  TODO,
+  Food,
+  Positivus
 }
 
 export default assets
