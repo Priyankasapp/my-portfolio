@@ -108,6 +108,20 @@ const projects = [
     "Responsive UI with Reactstrap",
     "Booking & Appointment System",
   ],
+},{
+  id: "Positive-app",
+  title: "Positivus",
+  desc: "A small website where people can book a table on restorent website.",
+  tech: ["react", "bootsrap" ],
+  live: "#",
+  github: "https://github.com/Priyankasapp/Positivus", 
+  image: assets.Positivus, 
+  features: [
+    "Salon & Parlour Management",
+    "State Management with Redux",
+    "Responsive UI with Reactstrap",
+    "Booking & Appointment System",
+  ],
 },
 ];
 
